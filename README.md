@@ -36,5 +36,5 @@ I will just describe their purpose here instead of repeating in each `README.md`
 [__Electronic Components__](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/worldwide.html) - The physical circuit requires a few misc electrical components.  
 
 ## Other Resources
-[__e-Book__](http://users.ece.u   texas.edu/~valvano/Volume1/E-Book/) - essentially a transcript of the edX lessons.  
+[__e-Book__](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/) - essentially a transcript of the edX lessons.  
 [__Course Website__](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/index.html) - To help edX students get started on the MOOC.  
