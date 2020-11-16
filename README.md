@@ -10,9 +10,7 @@ __School:__ University of Texas at Austin
 
 ## Certificate
 <a href="https://verify.edx.org/cert/d304d553676444c6928e71a1a80d3161"><img src="./6.01x_Certificate.jpg" alt="6.01x Certificate" height="300px"></a>
-* [My Final Project - Space Invaders](https://github.com/BillyLjm/SpaceInvaders_6.01x)
-* Grade: 100% _(not shown in certificate)_
-
+* [My Final Project - Space Invaders](https://github.com/BillyLjm/Space_Invaders-Tiva_C)  
 
 ## Description
 Each folder will contain all the necessary files for the specified lab.  
