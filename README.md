@@ -1,6 +1,6 @@
-# UT.6.01x Embedded Systems - Shape the World   
+# 6.01x Embedded Systems - Shape the World   
 
-This will be a repository for all the lab assignments I've done as part of the UT.6.01x MOOC.  
+This will be a repository for all the lab assignments I've done as part of the 6.01x MOOC.  
 I started with coding experience but no electrical engineering knowledge.  
 
 ## MOOC Details
@@ -9,9 +9,8 @@ __Date:__ January - May 2014
 __School:__ University of Texas at Austin  
 
 ## Certificate
-* [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/65da52800acc4f789fb377f5dffd6fef/Certificate.pdf)
-* [Certifcate Verification](https://verify.edx.org/cert/d304d553676444c6928e71a1a80d3161)
-* [My Final Project - Space Invaders](https://github.com/BillyLjm/SpaceInvaders_UT.6.01x)
+<a href="https://verify.edx.org/cert/d304d553676444c6928e71a1a80d3161"><img src="./6.01x_Certificate.jpg" alt="6.01x Certificate" height="300px"></a>
+* [My Final Project - Space Invaders](https://github.com/BillyLjm/SpaceInvaders_6.01x)
 * Grade: 100% _(not shown in certificate)_
 
 
@@ -23,7 +22,6 @@ Some labs also require the building of a physical electrical circuit which I wil
 ## Common Files
 There are some file types which will appear in every lab assignment.  
 I will just describe their purpose here instead of repeating in each `README.md`.  
-
 
 `***.uvproj` `***.uvgui` `***.uvopt` - uVision files (open `***.uvproj` to get everthing)  
 `***.axf` `TExaS.h` `texas.o` - autograder files   
